@@ -1,4 +1,2 @@
-# hello-world
-just try
-
-learn how to use git.
+# hello world
+你好
